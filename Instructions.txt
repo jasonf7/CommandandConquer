@@ -1,0 +1,69 @@
+Introduction:
+
+Command and Conquer is a game of military strategy. You are
+battling to conquer the map, or to conquer your enemies. 
+To win, you must launch daring attacks,
+defend yourself on all fronts, and sweep across the field with
+boldness and cunning. But remember, the dangers, as well as the rewards,
+are high. Just when the map is within your grasp, your opponent might
+strike and take it all away!
+
+Map Options:
+
+Before the game you can choose the map that you will be battling on.
+There is a total of 2 two-player maps and 2 four-player maps.
+
+2 Player:
+Bridge - a classic battle map where the middle is seperated by a river
+
+The Valley - an exquisite map where two armies fight in the battlefield
+of nature. Credits to Aly Hassan for this map's concept art.
+
+4 Player:
+King of the Hill - a map where a fort w/ moat is placed in the middle.
+Control over the middle fort is key to your army's victory.
+
+Random: Creates a randomly generated map
+
+Game Options:
+
+After choosing the map, you can personalize how you want to play the game with various
+options. NOTE: Many of the game options are NOT available when playing on custom maps.
+
+Game Type:
+
+Full Map: At the start of the game, almost the whole grid is covered with land owned by
+different players. Each player is given the same amount of land with the same amount of 
+armies.
+
+Land Grab: Each player is given one piece of land with two armies in a random spot 
+on the map.
+
+Battle Type: Options for attacking other players NOTE: This is the ONLY option that is
+changeable when playing on custom maps!
+
+Attrition: When attacking land of an enemy player, you may lose armies in the process
+based on how close your rolls are compared to your opponent's.
+
+Winner Keeps All: When attacking the land of an enemy player, whoever rolls a higher sum
+keeps all their armies and whoever rolls the lower sum loses all their armies in that
+piece of land.
+
+During the game:
+
+Attacking phase: During this phase, the player who has the current turn is able to move his
+armies. The player first clicks on the piece that he would like to move. Then the player 
+clicks on the place that he would like to move the selected piece to.
+The player is able to move his land that has at least two armies in it. The player
+can move to squares adjacent to or diagonally from the selected piece. The player can't move
+armies from one of his land to another of his land. The player can choose to end his turn
+at any time, entering the army reinforcement phase.
+
+Army Reinforcement phase: After a player ends his turn, he is able to reinforce the armies
+in his land by receiving an extra amount of armies based on the amount of land he owns.
+After placing all of his bonus armies, the turn switches to the next player.
+END INSTRUCTIONS
+
+
+
+
